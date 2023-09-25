@@ -1,6 +1,6 @@
 # Count Lines
 
-**A CLI tool that counting lines on files.**
+**A CLI tool for counting lines on files and directories.**
 
 ---
 
